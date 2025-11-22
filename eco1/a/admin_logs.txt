@@ -1,0 +1,54 @@
+[2025-11-09 08:12:03] Admin ID: 0 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 08:13:01] Admin ID: 0 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 08:18:13] Admin ID: 0 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 08:22:22] Admin ID: 0 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 08:22:31] Admin ID: 0 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 08:24:25] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-09 08:25:50] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-09 08:28:04] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 08:28:59] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 08:29:49] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-09 08:29:49] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 08:33:21] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 08:33:23] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 08:33:30] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 08:33:32] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 08:33:35] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 08:34:50] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 08:40:42] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 08:42:24] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-09 08:42:24] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 14:30:19] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 14:31:49] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 14:49:29] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-09 14:49:29] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 14:53:43] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-09 14:59:14] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-09 14:59:14] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 15:08:32] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-09 15:08:32] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 15:11:03] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-09 15:11:03] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 15:18:04] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 15:19:55] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 15:20:23] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 15:22:44] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 15:23:11] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 15:23:28] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 15:23:54] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 15:23:54] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 15:29:00] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-09 15:29:00] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 15:31:42] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-09 15:32:30] Admin ID: 1 - Activity: Dashboard Access - Details: Admin accessed the dashboard
+[2025-11-10 06:39:07] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-10 06:39:13] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-10 06:39:26] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-10 10:39:04] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-17 11:17:50] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-20 06:18:23] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-21 09:03:39] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-21 12:37:39] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-22 09:40:08] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-22 09:49:17] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
+[2025-11-22 13:06:14] Admin ID: 1 - Activity: Login - Details: Admin logged in successfully
